@@ -1,2 +1,2 @@
-# kaggle
-kaggle_python用
+# Pythonのコードのリポジトリ
+Pythonの基本，scikit-learn，kaggle，PRMLなど
